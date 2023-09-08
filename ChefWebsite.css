@@ -36,7 +36,7 @@
 {
     color: red;
 }
-#head1,#head2
+#head1,#head2,#head3
 {
     width: 8em;
 }
@@ -94,4 +94,13 @@
 #a
 {
     text-decoration: none;
+}
+
+.blogs-icon
+{
+     color: #d81313;
+}
+.card-border
+{
+    border: none;
 }
