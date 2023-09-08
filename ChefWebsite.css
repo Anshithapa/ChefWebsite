@@ -36,11 +36,62 @@
 {
     color: red;
 }
-#head1
+#head1,#head2
 {
     width: 8em;
 }
 #insta-link
 {
     display: flex;
+}
+.images
+{
+    height: 17em;
+    width: 17em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2em;
+}
+#img1
+{
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001468_10-81b47f5.jpg?quality=90&webp=true&resize=300,272);
+}
+#img2
+{
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074500_11-ee0d41a.jpg?quality=90&webp=true&resize=300,272);
+}
+#img3
+{
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1274503_8-05ae02b.jpg?quality=90&webp=true&resize=300,272);
+}
+#img4
+{
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg?quality=90&webp=true&resize=300,272);
+}
+#img5
+{
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=300,272);
+}
+#img6
+{
+    background-image: url(https://www.vegrecipesofindia.com/wp-content/uploads/2017/10/kerala-unniyappam-recipe.jpg);
+}
+#img-content1,#img-content2,#img-content4
+{
+    padding-top: 8em;
+    color:black;
+}
+#img-content3,#img-content6
+{
+    padding-top: 6em;
+    color:black;
+}
+#img-content1
+{
+    padding-top: 9em;
+    color:black;
+}
+#a
+{
+    text-decoration: none;
 }
