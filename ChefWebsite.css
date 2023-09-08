@@ -1,0 +1,33 @@
+#title-logo
+{
+    border-radius: 5px;
+}
+#header
+{
+    background-image:url(https://e1.pxfuel.com/desktop-wallpaper/303/875/desktop-wallpaper-black-cooking-cooking.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo
+{
+    width: 4em;
+    border-radius: 5em;
+}
+#text-hello
+{
+    width: 7em;
+}
+#profile-link
+{
+    display: flex
+}
+.profile-link-class
+{
+    color: white;
+    border-radius: 1em;
+    border: red;
+}
+#myRecipies-link
+{
+    margin-left: 11em;
+}
