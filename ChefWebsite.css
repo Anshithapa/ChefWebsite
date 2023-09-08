@@ -36,3 +36,11 @@
 {
     color: red;
 }
+#head1
+{
+    width: 8em;
+}
+#insta-link
+{
+    display: flex;
+}
