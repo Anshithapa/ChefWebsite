@@ -36,7 +36,7 @@
 {
     color: red;
 }
-#head1,#head2,#head3,head4
+#head1,#head2,#head3,head4,head5
 {
     width: 8em;
 }
@@ -76,20 +76,23 @@
 {
     background-image: url(https://www.vegrecipesofindia.com/wp-content/uploads/2017/10/kerala-unniyappam-recipe.jpg);
 }
-#img-content1,#img-content2,#img-content4
+#img-content1,#img-content2
 {
     padding-top: 8em;
     color:black;
+    font-weight: bold;
 }
-#img-content3,#img-content6
+#img-content3,#img-content6,#img-content4
 {
     padding-top: 6em;
     color:black;
+    font-weight: bold;
 }
 #img-content5
 {
     padding-top: 9em;
     color:black;
+    font-weight: bold;
 }
 #a
 {
@@ -108,4 +111,12 @@
 {
     height: 13em;
     width: 13em;
+}
+#message-area
+{
+    height: 12em;
+}
+button-style
+{
+    width: 100%;
 }
